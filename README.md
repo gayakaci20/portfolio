@@ -1,6 +1,6 @@
-# Portfolio App
+# Portfolio
 
-Un site portfolio moderne construit avec les dernières technologies web pour offrir une expérience utilisateur fluide et performante.
+Un site portfolio moderne construit avec les dernières technologies web.
 
 ## 🚀 Technologies Utilisées
 
@@ -33,39 +33,6 @@ Un site portfolio moderne construit avec les dernières technologies web pour of
 - **PostCSS** - Outil de transformation CSS
 - **Turbopack** - Bundler ultra-rapide (mode développement)
 
-## 🛠️ Installation
-
-```bash
-# Cloner le repository
-git clone [votre-repo-url]
-cd portfolio-app
-
-# Installer les dépendances
-npm install
-# ou
-pnpm install
-```
-
-## 🏃‍♂️ Démarrage
-
-```bash
-# Lancer le serveur de développement
-npm run dev
-# ou
-pnpm dev
-
-# Construire pour la production
-npm run build
-# ou
-pnpm build
-
-# Démarrer en production
-npm start
-# ou
-pnpm start
-```
-
-Ouvrez [http://localhost:3000](http://localhost:3000) dans votre navigateur pour voir le résultat.
 
 ## 📁 Structure du Projet
 
@@ -91,9 +58,3 @@ portfolio-app/
 - ✅ Performance optimisée avec Next.js 15
 - ✅ TypeScript pour la sécurité des types
 - ✅ Architecture modulaire et maintenable
-
-## 🚀 Déploiement
-
-Ce projet est optimisé pour le déploiement sur Vercel, mais peut être déployé sur n'importe quelle plateforme supportant Next.js.
-
-Consultez la [documentation de déploiement Next.js](https://nextjs.org/docs/app/building-your-application/deploying) pour plus de détails.
