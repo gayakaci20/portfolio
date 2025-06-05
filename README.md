@@ -21,8 +21,8 @@ Un site portfolio moderne construit avec les dernières technologies web.
 ### Animation & 3D
 - **Framer Motion 12** - Bibliothèque d'animations pour React
 - **Three.js 0.167** - Bibliothèque JavaScript pour la 3D dans le navigateur
-- **React Three Fiber 8** - Renderer React pour Three.js
-- **React Three Postprocessing** - Effets de post-traitement pour les scènes 3D
+- **React Three Fiber 9** - Renderer React pour Three.js (compatible React 19)
+- **React Three Postprocessing 3** - Effets de post-traitement pour les scènes 3D
 
 ### Thèmes & UX
 - **next-themes** - Gestion des thèmes sombre/clair avec Next.js
@@ -58,3 +58,4 @@ portfolio-app/
 - ✅ Performance optimisée avec Next.js 15
 - ✅ TypeScript pour la sécurité des types
 - ✅ Architecture modulaire et maintenable
+- ✅ Compatibilité React 19
